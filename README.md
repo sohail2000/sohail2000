@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Sohail.
-- 👀 I’m interested in dapp, web dev, ml
-- 🌱 I’m currently learning web dev
+- 👀 I’m interested in android dev, web dev.
+- 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - Sophomore NIT Hamirpur.
