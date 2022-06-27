@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohd Sohail.
 - 👀 I’m interested in android dev, web dev.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning reactjs.
+- 💞️ I love open-source.
+- 📫  msohail1379@gmail.com
 - Sophomore NIT Hamirpur.
 
 <!---
