@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mohd Sohail.
-- 👀 I’m interested in android dev, web dev.
-- 🌱 I’m currently learning reactjs.
+- 👀 I’m interested in android dev, ios dev.
+- 🌱 I’m currently using Flutter.
 - 💞️ I love open-source.
 - 📫  msohail1379@gmail.com
-- Sophomore NIT Hamirpur.
+- Pre-Final NIT Hamirpur.
 
 <!---
 sohail2000/sohail2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
