@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohd Sohail.
-- 👀 I’m interested in android dev, ios dev.
-- 🌱 I’m currently using Flutter.
-- 💞️ I love open-source.
+- 👀 I’m a Front-end Developer.
+- 🌱 I’m love to work with ReactJs , Flutter etc...
+- 💞️ open-source excites me
 - 📫  msohail1379@gmail.com
 - Pre-Final NIT Hamirpur.
 
