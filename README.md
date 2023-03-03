@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Sohail.
-- 👀 I’m a Front-end Developer.
+- 👀 I’m a Software Developer.
 - 🌱 I’m love to work with ReactJs , Flutter etc...
 - 💞️ open-source excites me
 - 📫  msohail1379@gmail.com
